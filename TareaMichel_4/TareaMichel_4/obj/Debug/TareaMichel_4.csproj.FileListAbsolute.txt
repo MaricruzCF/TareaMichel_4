@@ -1,0 +1,10 @@
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\bin\Debug\TareaMichel_4.exe.config
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\bin\Debug\TareaMichel_4.exe
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\bin\Debug\TareaMichel_4.pdb
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.csprojResolveAssemblyReference.cache
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.Form1.resources
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.Properties.Resources.resources
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.csproj.GenerateResource.Cache
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.csproj.CoreCompileInputs.cache
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.exe
+C:\Users\Michelita\source\repos\TareaMichel_4\TareaMichel_4\obj\Debug\TareaMichel_4.pdb
